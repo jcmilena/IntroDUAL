@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.i("DUAL","Primer log de mi App");
+        Log.i("DUAL","Segundo log de mi App");
     }
 }
